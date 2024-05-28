@@ -1,4 +1,4 @@
-# Employee Management System
+# Team Tracker
 
 This command-line application allows business owners to view and manage departments, roles, and employees in their company, helping them organize and plan their business effectively.
 
