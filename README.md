@@ -23,4 +23,4 @@ To add a department, simply enter the name when prompted, and it will be added t
 When choosing to update an employee's role, you will be prompted to select the employee and enter their new role. The information will be updated in the database accordingly.
 
 ## Walkthrough Video
-[Walkthrough Video](*insert google link here*)
+![Team Tracker Walkthrough Video](./video/Team%20Tracker%20Demo%20-%20Made%20with%20Clipchamp_1717106737881.mp4)
